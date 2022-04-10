@@ -1,0 +1,42 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-size: 16px:
+	font-family: Verdana, Cursiva, serif;
+	background-color: #626D71
+}
+
+p{
+	text-align: center;
+	border: 3px solid #DDBC95;
+	padding: 15px;
+	width: 60%;
+	margin: 0px auto;
+}
+
+div{
+	text-align: center;
+	margin; 50px auto;
+	width: 80%;
+	padding: 15px;
+	border: 10px #DDBC95
+}
+
+h1{
+	text-align: center;
+	margin: 0px auto;
+	padding: 15px;
+	width: 60%;
+	border: 3px solid #DDBC95
+}
+
+
+h2{
+	text-align: center;
+	margin: 0px auto;
+	padding: 15px;
+	width: 60%;
+	border: 3px solid #DDBC95
+}
+
+
